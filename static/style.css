@@ -93,8 +93,13 @@ body {
     left: 0;
     width: 100%;
     background: rgba(0,0,0,0.1);
-    padding: 15px 30%;
+    padding: 15px;
     box-sizing: border-box;
+}
+.page_nav__controls {
+    width: 80%;
+    max-width: 250px;
+    margin: auto;
 }
 .page_nav__progress {
     color: rgba(0,0,0,0.5);
